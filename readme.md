@@ -5,7 +5,7 @@
 
 Convert clipboard text to syntax hilighted html.
 
-Caution :
+**Caution :**
 
 "Run Script" : you must set own Python enviroment.
 
